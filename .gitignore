@@ -1,0 +1,12 @@
+# Raw Data Files
+Proclass_Mapping_Master.csv
+trafford_supplier_spend_2024_25.csv
+trafford_supplier_spend_2025_26.csv
+trafford_supplier_spend_2026_27.csv
+Trafford_Spend_Project_Data_Raw
+data/
+
+# Python and OS files
+__pycache__/
+.env
+.DS_Store
